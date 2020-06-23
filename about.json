@@ -11,16 +11,16 @@
    "image":"https://raw.githubusercontent.com/MorrisGallego/test/master/me.svg",
    "profiles": [
       {
-         "type": "ORCID",
-         "link": ""
+         "type": "RESEARCHGATE",
+         "link": "https://www.researchgate.net/profile/Victor_Gallego-Fontenla"
       },
       {
          "type": "SCHOLAR",
-         "link": ""
+         "link": "https://scholar.google.es/citations?user=4prRslwAAAAJ"
       },
       {
          "type": "LINKEDIN",
-         "link": ""
+         "link": "https://www.linkedin.com/in/vjgallego/"
       }
    ]
 }
