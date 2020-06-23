@@ -8,5 +8,19 @@
       "Universidade de Santiago de Compostela"
    ],
    "country":"SPAIN",
-   "image":"https://raw.githubusercontent.com/MorrisGallego/test/master/me.svg"
+   "image":"https://raw.githubusercontent.com/MorrisGallego/test/master/me.svg",
+   "profiles": [
+      {
+         "type": "ORCID",
+         "link": ""
+      },
+      {
+         "type": "SCHOLAR",
+         "link": ""
+      },
+      {
+         "type": "LINKEDIN",
+         "link": ""
+      }
+   ]
 }
