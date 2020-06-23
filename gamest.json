@@ -1,0 +1,52 @@
+{
+  "type":"PROJECT",
+  "title":"GAMEST: Gamification techniques for entrepreneurial vet teachers",
+  "startDate":"01-11-2019",
+  "endDate": "30-09-2021",
+  "description": "The project general objective is to support the promotion of high‐quality and innovative teaching based on the application of gamification strategies. GAMEST completely fits in the EU policies frameworks. In fact, the project identifies in gamification an innovative vehicle to teach entrepreneurial contents, increasing learners’ engagement in the subject matter. Gamification consists in employing game mechanics to non-game environments; as such, it could be considered as a tool to enhance skills of both educators and learners and can be a practical vehicle to foster entrepreneurial mind-set and related skills. GAMEST wants to have long-term impact on VET system. Empowering VET trainers through the supply of innovative didactic methodology framework based on gamification will give to VET learners the possibility to learn and to acquire new skills more easily. Therefore, GAMEST aims at affecting the entire VET system, reducing the gap between learners and teachers and giving to the target group the practical tool to teach necessary skills to access to entrepreneurial labour market",
+  "founder": "Erasmus+, European Commission, 019-1-RO01-KA202-063211",
+  "researchers": [
+    {
+      "name":"Juan Carlos Vidal Aguiar",
+      "affiliation":[
+        "Centro Singular de Investigación en Tecnoloxías da Información",
+        "Universidade de Santiago de Compostela"
+      ],
+      "main": true
+    },
+    {
+      "name":"Víctor José Gallego Fontenla",
+      "affiliation":[
+        "Centro Singular de Investigación en Tecnoloxías da Información",
+        "Universidade de Santiago de Compostela"
+      ],
+      "main": false
+    },
+    {
+      "name":"Manuel Lama Penín",
+      "affiliation":[
+        "Centro Singular de Investigación en Tecnoloxías da Información",
+        "Universidade de Santiago de Compostela"
+      ],
+      "main": false
+    },
+  ],
+  "consortium": [
+    {
+      "name": "Universitatea Dunarea de Jos Din Galati",
+      "leader": true
+    },
+    {
+      "name": "FVB S.R.L",
+      "leader": false
+    },
+    {
+      "name": "Solski Center Novo Mesto",
+      "leader": false
+    },
+    {
+      "name": "CiTIUS",
+      "leader": false
+    },
+  ]
+}
