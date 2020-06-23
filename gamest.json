@@ -29,7 +29,7 @@
         "Universidade de Santiago de Compostela"
       ],
       "main": false
-    },
+    }
   ],
   "consortium": [
     {
@@ -47,6 +47,6 @@
     {
       "name": "CiTIUS",
       "leader": false
-    },
+    }
   ]
 }
