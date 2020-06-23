@@ -12,7 +12,8 @@
         "Centro Singular de Investigación en Tecnoloxías da Información",
         "Universidade de Santiago de Compostela"
       ],
-      "main": true
+      "main": true,
+      "mail":"juan.vidal@usc.es"
     },
     {
       "name":"Víctor José Gallego Fontenla",
@@ -20,7 +21,8 @@
         "Centro Singular de Investigación en Tecnoloxías da Información",
         "Universidade de Santiago de Compostela"
       ],
-      "main": false
+      "main": false,
+      "mail":"victorjose.gallego@usc.es"
     },
     {
       "name":"Manuel Lama Penín",
@@ -28,7 +30,8 @@
         "Centro Singular de Investigación en Tecnoloxías da Información",
         "Universidade de Santiago de Compostela"
       ],
-      "main": false
+      "main": false,
+      "mail":"manuel.lama@usc.es"
     }
   ],
   "consortium": [
