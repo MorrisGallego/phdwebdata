@@ -36,19 +36,22 @@
   ],
   "consortium": [
     {
-      "name": "Universitatea Dunarea de Jos Din Galati",
+      "name": ["Universitatea Dunarea de Jos Din Galati"],
       "leader": true
     },
     {
-      "name": "FVB S.R.L",
+      "name": ["FVB S.R.L"],
       "leader": false
     },
     {
-      "name": "Solski Center Novo Mesto",
+      "name": ["Solski Center Novo Mesto"],
       "leader": false
     },
     {
-      "name": "CiTIUS",
+      "name": [
+        "CiTIUS",
+        "Centro Singular de Investigación en Tecnoloxías da Información",
+        "Universidade de Santiago de Compostela"],
       "leader": false
     }
   ]
