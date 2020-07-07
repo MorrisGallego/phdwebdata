@@ -14,7 +14,8 @@
             "Centro Singular de Investigación en Tecnoloxías da Información",
             "Universidade de Santiago de Compostela"
          ],
-         "mail":"victorjose.gallego@usc.es"
+         "mail":"victorjose.gallego@usc.es",
+         "corresponding": true
       },
       {
          "name":"Juan Carlos Vidal Aguiar",
