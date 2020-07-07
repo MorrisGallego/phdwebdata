@@ -36,7 +36,9 @@
   ],
   "consortium": [
     {
-      "name": ["Universitatea Dunarea de Jos Din Galati"],
+      "name": [
+        "Universitatea Dunărea de Jos din Galați", 
+        "Romania"],
       "leader": true
     },
     {
@@ -44,14 +46,19 @@
       "leader": false
     },
     {
-      "name": ["Solski Center Novo Mesto"],
+      "name": [
+        "Šolski center Novo mesto",
+        "Slovenia"
+      ],
       "leader": false
     },
     {
       "name": [
         "CiTIUS",
         "Centro Singular de Investigación en Tecnoloxías da Información",
-        "Universidade de Santiago de Compostela"],
+        "Universidade de Santiago de Compostela",
+        "Spain"
+      ],
       "leader": false
     }
   ],
