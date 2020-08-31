@@ -1,6 +1,7 @@
 {
    "type":"PAPER",
    "title":"A Conformance Checking-based Approach for Sudden Drift Detection in Business Processes",
+   "id": "a-conformance-checking-based-approach-for-sudden-drift-detection-in-business-processes",
    "date":"12-05-2020",
    "publisher":{
       "name":"IEEE Transaction on Services Computing",
